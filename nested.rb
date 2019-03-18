@@ -146,6 +146,7 @@ def adding_to_dennis
 
 		 programmer_hash[:dennis_ritchie][:languages] << "Assembly"
 
+#glad the shovel operator was used here
 
 		 puts programmer_hash[:dennis_ritchie]
 		 return programmer_hash
