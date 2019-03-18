@@ -142,9 +142,11 @@ def adding_to_dennis
         }
      }
 
-		 programmer_hash[:dennis_ritchie].merge!({:languages => "Assembly"})
+		# programmer_hash[:dennis_ritchie].merge!({:languages => "Assembly"})
 
-		 #programmer_hash[:dennis_ritchie][:languages].merge!("Assembly")
+		 programmer_hash[:dennis_ritchie][:languages].merge!("Assembly")
+
+
 		 puts programmer_hash[:dennis_ritchie]
 		 return programmer_hash
 
