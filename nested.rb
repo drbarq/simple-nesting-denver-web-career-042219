@@ -61,6 +61,7 @@ def dennis_ritchies_language
      }
 
 		 puts programmer_hash[:dennis_ritchie][:languages]
+		 binding.pry
 		 return programmer_hash[:dennis_ritchie][:languages]
 end
 
